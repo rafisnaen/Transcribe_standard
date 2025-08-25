@@ -8,3 +8,5 @@
 - 🎙️STT : Assembly AI
 - 🤖LLM : Gemini
 - 🔊TTS : pyttsx3
+
+⚠️ Use .py instead of .ipynb
